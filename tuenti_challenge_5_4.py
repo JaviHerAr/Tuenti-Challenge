@@ -1,6 +1,4 @@
 # Description: Tuenti Challenge 5 - Problem 4 - A Bitter Dinner.
-# URL: https://contest.tuenti.net/Challenges?id=4
-#
 # Author: Javier Herrero Arnanz.
 # Date: 01/04/2015.
 
