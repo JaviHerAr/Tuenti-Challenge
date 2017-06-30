@@ -1,6 +1,4 @@
 # Description: Tuenti Challenge 5 - Problem 2 - Almost prime.
-# URL: https://contest.tuenti.net/Challenges?id=2
-#
 # Author: Javier Herrero Arnanz.
 # Date: 29/04/2015.
 
