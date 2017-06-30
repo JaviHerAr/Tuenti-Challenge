@@ -1,6 +1,4 @@
 # Desc: Tuenti Challenge 4 - Problem 2 - F1 Bird's-eye Circuit.
-# URL: https://contest.tuenti.net/resources/2014/Question_2.html
-#
 # Author: Javier Herrero Arnanz.
 # Date: 11/04/2015.
 
