@@ -1,6 +1,4 @@
 # Description: Tuenti Challenge 5 - Problem 6 - Airscrews.
-# URL: https://contest.tuenti.net/Challenges?id=6
-#
 # Author: Javier Herrero Arnanz.
 # Date: 04/04/2015.
 
