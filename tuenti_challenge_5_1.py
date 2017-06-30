@@ -1,6 +1,4 @@
 # Description: Tuenti Challenge 5 - Problem 1 - The Buffer.
-# URL: https://contest.tuenti.net/Challenges?id=1
-#
 # Author: Javier Herrero Arnanz.
 # Date: 27/04/2015.
 
