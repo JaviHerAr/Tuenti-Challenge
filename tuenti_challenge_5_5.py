@@ -1,6 +1,4 @@
 # Description: Tuenti Challenge 5 - Problem 5 - The One Treasure.
-# URL: https://contest.tuenti.net/Challenges?id=5
-#
 # Author: Javier Herrero Arnanz.
 # Date: 03/04/2015.
 
