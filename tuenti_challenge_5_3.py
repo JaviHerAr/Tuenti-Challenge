@@ -1,6 +1,4 @@
 # Description: Tuenti Challenge 5 - Problem 3 - Favourite primes.
-# URL: https://contest.tuenti.net/Challenges?id=3
-#
 # Author: Javier Herrero Arnanz.
 # Date: 30/04/2015.
 
