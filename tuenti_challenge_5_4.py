@@ -2,7 +2,6 @@
 # Author: Javier Herrero Arnanz.
 # Date: 01/04/2015.
 
-
 import base64
 import binascii
 import re
